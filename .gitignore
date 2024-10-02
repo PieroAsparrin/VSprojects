@@ -1,0 +1,14 @@
+# Archivos de compilación
+*.dll
+*.exe
+*.pdb
+*.obj
+
+# Directorios de compilación
+bin/
+obj/
+
+# Archivos temporales y de configuración
+*.user
+*.suo
+*.userprefs
